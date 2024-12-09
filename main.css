@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(0, 255, 38);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+#btn1 {
+    background-color: rgb(228, 14, 14);
+}
+
+#btn2 {
+    background-color: aqua;
+}
+
+#btn3 {
+    background-color: rgb(20, 33, 220);
+}
